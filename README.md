@@ -7,7 +7,7 @@
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBreaks&layout=compact)](https://github.com/NatanBreaks/github-readme-stats&theme=dark">
 <div/>
    
-<div align="center">
+<div>
  <br>
  
 <a href="https://www.linkedin.com/in/nata-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
