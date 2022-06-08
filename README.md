@@ -2,12 +2,9 @@
  <div style="display:flex">
  <div align="center">
   <a href="https://github.com/NatanBreaks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanBreaks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBreaks&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-
-  </div> 
-
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=NatanBreaks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBreaks&layout=compact)](https://github.com/LayaneB/github-readme-stats&theme=midnight-purple">
 
 <div align="center">
  <br>
