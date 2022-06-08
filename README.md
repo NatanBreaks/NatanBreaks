@@ -4,7 +4,7 @@
   <a href="https://github.com/NatanBreaks">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=NatanBreaks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBreaks&layout=compact)](https://github.com/LayaneB/github-readme-stats&theme=midnight-purple">
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayaneB&layout=compact)](https://github.com/NatanBreaks/github-readme-stats&theme=midnight-purple">
 
 <div align="center">
  <br>
