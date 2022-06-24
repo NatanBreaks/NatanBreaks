@@ -1,7 +1,6 @@
-<h1>Olá sou Natã <h1/>
-
  <div style="display:flex">
  <div align="center">
+<h1>Hello I'm Natã <h1/>
   <a href="https://github.com/NatanBreaks">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NatanBreaks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBreaks&layout=compact)](https://github.com/NatanBreaks/github-readme-stats&theme=dark">
@@ -20,20 +19,12 @@
 </div>
 <br>
 <div>
-<h2>Contato<h2/>
+<h3>Contact<h3/>
  
 <a href="https://www.linkedin.com/in/nata-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:natanlucas771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <div/>
-<br>
-   <div> 
-  
- 
-   
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 
 
