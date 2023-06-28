@@ -3,7 +3,7 @@
 <h1>Hello I'm Natã <h1/>
   <a href="https://github.com/NatanBreaks">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NatanBreaks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBreaks&layout=compact)](https://github.com/NatanBreaks/github-readme-stats&theme=dark">
+  
 <div/>
    
 <div>
